@@ -2,4 +2,4 @@
 Desafio de projeto
 
 ## Link Úteis
-[Sixate básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Sinxate básica Markdown](https://www.markdownguide.org/basic-syntax/)
